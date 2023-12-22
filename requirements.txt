@@ -2,6 +2,3 @@ pyinstaller
 fastapi
 uvicorn
 loguru
-tos
-oss2
-numpy
